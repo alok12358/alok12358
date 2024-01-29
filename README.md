@@ -1,4 +1,4 @@
-
+[![](https://visitcount.itsvg.in/api?id=alok12358&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/5684alok) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devloperalok/?hl=en) 
 
@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alok12358&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created By DevloperAlok( ) --
